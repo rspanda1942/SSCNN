@@ -1,2 +1,2 @@
 # SSCNN
-simple and slowly CNN toolbox based on matlab
+A simple, slowly and old fashion CNN toolbox based on matlab
